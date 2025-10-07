@@ -19,6 +19,9 @@
   background-color: cornflowerblue;
   color: white;
 }
+.nav > li:hover{
+  text-decoration: underline;
+}
 
 nav {
   width: 100%;
